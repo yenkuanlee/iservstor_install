@@ -1,6 +1,6 @@
 export ISERVSTOR_ROLE=dnode
-export DATA_NODE_IP=140.92.143.208
+export DATA_NODE_IP=140.92.143.82
 export MANAGEMENT_NODE_IP=140.92.143.80
-export ISERVSTOR_DOMAIN_NAME=release_test
+export ISERVSTOR_DOMAIN_NAME=raspberry
 export DOWNLOAD_USER=iservstor
 export DOWNLOAD_PASSWD=iservstor
