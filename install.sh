@@ -9,4 +9,4 @@ tar zxf iServStorPKG.tar.gz
 cp iservstor.rc iServStorPKG
 cd iServStorPKG
 chmod +x deploy
-./deploy install
+#./deploy install
